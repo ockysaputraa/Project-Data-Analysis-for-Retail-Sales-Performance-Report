@@ -32,4 +32,5 @@ Notes :   Data yang ditampilkan hanya untuk tahun 2012 dan contoh output di atas
 # Customers Transactions per Year
 DQLab Store ingin mengetahui jumlah customer (number_of_customer) yang bertransaksi setiap tahun dari 2009 sampai 2012 (years). Adapun output yang seharusnya dihasilkan adalah sebagai berikut.
 
-![alt text](https://raw.githubusercontent.com/ockysaputraa/Project-Data-Analysis-for-Retail-Sales-Performance-Report/main/Promotion%20Effectiveness%20and%20Efficiency%20by%20Product%20Sub%20Category.png)
+![alt text]()
+
