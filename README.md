@@ -21,3 +21,10 @@ Pada bagian ini kita akan melakukan analisa terhadap efektifitas dan efisiensi d
 Buatkan Derived Tables untuk menghitung total sales (sales) dan total discount (promotion_value) berdasarkan tahun(years) dan formulasikan persentase burn rate nya (burn_rate_percentage). Adapun output yang seharusnya dihasilkan adalah sebagai berikut.
 
 ![alt text](https://raw.githubusercontent.com/ockysaputraa/Project-Data-Analysis-for-Retail-Sales-Performance-Report/main/Promotion%20Effectiveness%20and%20Efficiency%20by%20Years.png)
+
+# Promotion Effectiveness and Efficiency by Product Sub Category
+Pada bagian ini kita akan melakukan analisa terhadap efektifitas dan efisiensi dari promosi yang sudah dilakukan selama ini seperti pada bagian sebelumnya. Akan tetapi, ada kolom yang harus ditambahkan, yaitu : product_sub_category dan product_category. Adapun output yang seharusnya dihasilkan adalah sebagai berikut.
+
+![alt text](https://raw.githubusercontent.com/ockysaputraa/Project-Data-Analysis-for-Retail-Sales-Performance-Report/main/Promotion%20Effectiveness%20and%20Efficiency%20by%20Product%20Sub%20Category.png)
+
+Notes :   Data yang ditampilkan hanya untuk tahun 2012 dan contoh output di atas hanya 5 baris pertama dari output yang diharapkan
